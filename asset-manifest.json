@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-2-guided/static/css/main.448fc8f6.css",
+    "main.js": "/react-portfolio-2-guided/static/js/main.6d4b91a9.js",
+    "static/media/DanyOutubro-60.jpg": "/react-portfolio-2-guided/static/media/DanyOutubro-60.3e9c32f4dd95eb461730.jpg",
+    "static/media/img5.jpg": "/react-portfolio-2-guided/static/media/img5.cac036947b722eac91af.jpg",
+    "static/media/img6.jpg": "/react-portfolio-2-guided/static/media/img6.014ac07d79dd36f6bac0.jpg",
+    "static/media/img1.jpg": "/react-portfolio-2-guided/static/media/img1.43cb81207b6bd1156c31.jpg",
+    "static/media/img8.jpg": "/react-portfolio-2-guided/static/media/img8.6831ec0eb91598c3e828.jpg",
+    "static/media/img3.jpg": "/react-portfolio-2-guided/static/media/img3.be81769e9b6f3ffe2144.jpg",
+    "static/media/DanyOutubro-57.jpg": "/react-portfolio-2-guided/static/media/DanyOutubro-57.26c3af6de2fcf75ca17a.jpg",
+    "static/media/img7.jpg": "/react-portfolio-2-guided/static/media/img7.6d02287d037b2209746a.jpg",
+    "static/media/img4.jpg": "/react-portfolio-2-guided/static/media/img4.11c3c7a960c9bf48bc89.jpg",
+    "static/media/img2.jpg": "/react-portfolio-2-guided/static/media/img2.af799521e82b6eead30c.jpg",
+    "static/media/Sopas_4.pdf": "/react-portfolio-2-guided/static/media/Sopas_4.a9df88f1b182e423e17c.pdf",
+    "index.html": "/react-portfolio-2-guided/index.html",
+    "main.448fc8f6.css.map": "/react-portfolio-2-guided/static/css/main.448fc8f6.css.map",
+    "main.6d4b91a9.js.map": "/react-portfolio-2-guided/static/js/main.6d4b91a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.448fc8f6.css",
+    "static/js/main.6d4b91a9.js"
+  ]
+}
