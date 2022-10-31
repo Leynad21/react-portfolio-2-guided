@@ -75,7 +75,7 @@ header {
 
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        height: 100vh;
     }
 
     }
@@ -84,7 +84,7 @@ header {
 /* ============ MEDIA QUERIES (SMALL DEVICES) ============ */
 @media screen and (max-width: 600px) {
     heder {
-        height: 100vf;
+        height: 100vh;
     }
 
     .header__socials, .scroll__down {
